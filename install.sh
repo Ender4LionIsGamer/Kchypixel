@@ -1,4 +1,4 @@
-sudo apt install default-jdk tar
+apt install tar
 tar xvf Kchypixel.tar
 cd Kchypixel
 clear
