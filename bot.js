@@ -5,7 +5,7 @@ console.log('Starting...')
 function createBot () {
     const bot = mineflayer.createBot({
     host: "kchcraft.aternos.me",
-    port: "25565",
+    port: "32486",
     username: "Test",
     version: false
     })
