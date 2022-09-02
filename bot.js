@@ -7,7 +7,7 @@ function createBot () {
     host: "kchcraft.aternos.me",
     port: "25565",
     username: "Test",
-    version: 1.8.9
+    version: false
     })
     bot.on('login', function() {
       bot.chat('/reginster 123123123 123123123')
